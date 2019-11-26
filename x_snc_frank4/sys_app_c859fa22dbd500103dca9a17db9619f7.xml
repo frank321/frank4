@@ -18,21 +18,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description>test app</short_description>
         <source>x_snc_frank4</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000169039</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>david.loo</sys_created_by>
         <sys_created_on>2019-11-26 22:11:24</sys_created_on>
         <sys_id>c859fa22dbd500103dca9a17db9619f7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>david.loo</sys_updated_by>
-        <sys_updated_on>2019-11-26 22:11:24</sys_updated_on>
+        <sys_updated_on>2019-11-26 22:23:31</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>
