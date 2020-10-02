@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_frank4.frank4_app_adminn" name="x_snc_frank4.frank4_app_adminn">8d0fbbee1ba79cd0f0f077f58d4bcbdd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 19:48:47</sys_created_on>
+        <sys_id>971fbbee1ba79cd0f0f077f58d4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8d0fbbee1ba79cd0f0f077f58d4bcbdd</sys_name>
+        <sys_package display_value="frank4" source="x_snc_frank4">c859fa22dbd500103dca9a17db9619f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="frank4">c859fa22dbd500103dca9a17db9619f7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_971fbbee1ba79cd0f0f077f58d4bcbe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 19:48:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

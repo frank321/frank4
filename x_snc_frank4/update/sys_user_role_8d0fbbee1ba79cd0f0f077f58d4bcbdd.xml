@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_frank4.frank4_app_adminn</name>
+        <requires_subscription>0</requires_subscription>
+        <scoped_admin>true</scoped_admin>
+        <suffix>frank4_app_adminn</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 19:48:47</sys_created_on>
+        <sys_id>8d0fbbee1ba79cd0f0f077f58d4bcbdd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_snc_frank4.frank4_app_adminn</sys_name>
+        <sys_package display_value="frank4" source="x_snc_frank4">c859fa22dbd500103dca9a17db9619f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="frank4">c859fa22dbd500103dca9a17db9619f7</sys_scope>
+        <sys_update_name>sys_user_role_8d0fbbee1ba79cd0f0f077f58d4bcbdd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 19:53:21</sys_updated_on>
+    </sys_user_role>
+</record_update>
