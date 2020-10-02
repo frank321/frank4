@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_frank4_allmetadata" name="sn_dd_frank4_allmetadata">97011feedbd500103dca9a17db9619da</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>david.loo</sys_created_by>
+        <sys_created_on>2019-11-26 23:55:06</sys_created_on>
+        <sys_id>d7011feedbd500103dca9a17db9619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>97011feedbd500103dca9a17db9619da</sys_name>
+        <sys_package display_value="frank4" source="x_snc_frank4">c859fa22dbd500103dca9a17db9619f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="frank4">c859fa22dbd500103dca9a17db9619f7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d7011feedbd500103dca9a17db9619dd</sys_update_name>
+        <sys_updated_by>david.loo</sys_updated_by>
+        <sys_updated_on>2019-11-26 23:55:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
